@@ -54,3 +54,4 @@ jobs:
     - name: Build docker
       run: |
         docker build -t test .
+
